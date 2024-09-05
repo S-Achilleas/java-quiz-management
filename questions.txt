@@ -1,0 +1,41 @@
+QUESTION_LIST
+{
+	QUESTION
+	{
+		TYPE WORD 
+		CODE 6001
+		DECSR "GDFGKSDG"
+		WORD "EEE"
+	}
+	QUESTION
+	{
+		TYPE MC 
+		CODE 1002
+		DECSR "ποια είναι η καλύτερη από 100;"
+		NUMBERLIST "1, 2, 4"
+		ANSWERS "105, 90+11, 110-11, 50+51"
+	}
+	QUESTION
+	{
+		TYPE FILL 
+		CODE 6005
+		DECSR "fsdfgsdfg"
+		ORDEREDWORDLIST "6, 5, 7"
+		WORDLIST "7, 6, 5"
+	}
+	QUESTION
+	{
+		TYPE WORD 
+		CODE 2002
+		DECSR "ποιος κάνει 37+37;"
+		WORD "3333902"
+	}
+	QUESTION
+	{
+		TYPE FILL 
+		CODE 3001
+		DECSR "Το άθροισμα των αριθμών ? και ? είναι ?. "
+		ORDEREDWORDLIST "8, 7, 9"
+		WORDLIST "7, 2, 9"
+	}
+}
